@@ -1,0 +1,60 @@
+body {
+    background: linear-gradient(to bottom right, #a3f9ff, #00d0df, #005254) fixed;
+    padding: 90px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+header p {
+    text-align: center;
+}
+
+main h1 {
+    margin-top: 40px;
+}
+
+p {
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.Nav{
+    background-image: linear-gradient(to top, rgb(255, 0, 0), black);
+    width:90px;
+    color: aqua;
+
+}
+nav a {
+    background-color: black;
+    border-radius: 5px;
+    text-decoration: none;
+    color: red;
+    margin-bottom: 20px;
+    display: block;
+    padding: 5px;
+    text-align: center;
+}
+
+ nav {
+    float: right;
+ }
+ 
+ span {
+    color: red;
+    background-color: rgb(43, 0, 75);
+    padding: 2px;
+    border-radius: 10px;
+    margin: 1px;
+ }
+
+ .corect {
+    color: green;
+ }
+
+.gg {
+    background-image: linear-gradient(to right, lightgreen, green);
+    padding: 5px;
+}
